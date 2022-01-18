@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Heavy Italic"), local("CartographCF-HeavyItalic"),
+    url("https://dl.dropbox.com/s/qeitvur7rkb7yww/CartographCF-HeavyItalic.woff2")
+      format("woff2");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Light"), local("CartographCF-Light"),
+    url("https://dl.dropbox.com/s/k8led9jouurtiyi/CartographCF-Light.woff2")
+      format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Extra Light"), local("CartographCF-ExtraLight"),
+    url("https://dl.dropbox.com/s/j6coowe4xbk0a68/CartographCF-ExtraLight.woff2")
+      format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Demi Bold"), local("CartographCF-DemiBold"),
+    url("https://dl.dropbox.com/s/e6z3l313emdermy/CartographCF-DemiBold.woff2")
+      format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Thin"), local("CartographCF-Thin"),
+    url("https://dl.dropbox.com/s/khwmtqwffnxrexi/CartographCF-Thin.woff2")
+      format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Extra Light Italic"),
+    local("CartographCF-ExtraLightItalic"),
+    url("https://dl.dropbox.com/s/c24qrvmc0lerii9/CartographCF-ExtraLightItalic.woff2")
+      format("woff2");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Thin Italic"), local("CartographCF-ThinItalic"),
+    url("https://dl.dropbox.com/s/38mt8n706boxili/CartographCF-ThinItalic.woff2")
+      format("woff2");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF Extra";
+  src: local("Cartograph CF Extra Bold"), local("CartographCF-ExtraBold"),
+    url("https://dl.dropbox.com/s/ep8w4w9ci40n7mr/CartographCF-ExtraBold.woff2")
+      format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Light Italic"), local("CartographCF-LightItalic"),
+    url("https://dl.dropbox.com/s/58jjitac9w9l3xz/CartographCF-LightItalic.woff2")
+      format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Heavy"), local("CartographCF-Heavy"),
+    url("https://dl.dropbox.com/s/pnidbzsnmjzmtdb/CartographCF-Heavy.woff2")
+      format("woff2");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Bold Italic"), local("CartographCF-BoldItalic"),
+    url("https://dl.dropbox.com/s/4g0lxdammxxygk4/CartographCF-BoldItalic.woff2")
+      format("woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Demi Bold Italic"),
+    local("CartographCF-DemiBoldItalic"),
+    url("https://dl.dropbox.com/s/vdgnsphs4c9b6y2/CartographCF-DemiBoldItalic.woff2")
+      format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Regular Italic"),
+    local("CartographCF-RegularItalic"),
+    url("https://dl.dropbox.com/s/fg139qxgd9c9qdb/CartographCF-RegularItalic.woff2")
+      format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Regular"), local("CartographCF-Regular"),
+    url("https://dl.dropbox.com/s/j466ln7me0jr5u8/CartographCF-Regular.woff2")
+      format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Bold"), local("CartographCF-Bold"),
+    url("https://dl.dropbox.com/s/cuy91yjxnlew35n/CartographCF-Bold.woff2")
+      format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Extra Bold Italic"),
+    local("CartographCF-ExtraBoldItalic"),
+    url("https://dl.dropbox.com/s/tcb0a3taxgm79p0/CartographCF-ExtraBoldItalic.woff2")
+      format("woff2");
+  font-weight: 800;
+  font-style: italic;
+}
